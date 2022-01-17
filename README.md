@@ -33,3 +33,6 @@ en todo México.
  - [Lista de tareas](https://github.com/KevinGarzaO/app_lista_tareas)
  - [Tienda Online](https://github.com/KevinGarzaO/app_tienda)
 
+## Cuenta de hackerRank
+Te comparto mi cuenta de HackerRank donde me preparo constantemente resolviendo problemas de programación algoritmicos.
+- [HackerRank](https://www.hackerrank.com/kevin_4569)
