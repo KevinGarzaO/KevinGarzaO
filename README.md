@@ -1,6 +1,6 @@
-# Kevin — Desarrollador, Emprendedor y Creador de Transformateck
+# Kevin Garza — Desarrollador, Emprendedor y Creador de Transformateck
 
-¡Hola! Soy **Kevin**, un desarrollador apasionado por la tecnología, la inteligencia artificial y la construcción de productos digitales que generan impacto real para emprendedores y empresas. Mi enfoque está en crear soluciones prácticas, útiles y escalables, combinando desarrollo web y móvil con estrategias de negocio centradas en el crecimiento orgánico, el contenido creativo y la productividad potenciada por IA.
+¡Hola! Soy **Kevin Garza**, un desarrollador apasionado por la tecnología, la inteligencia artificial y la construcción de productos digitales que generan impacto real para emprendedores y empresas. Mi enfoque está en crear soluciones prácticas, útiles y escalables, combinando desarrollo web y móvil con estrategias de negocio centradas en el crecimiento orgánico, el contenido creativo y la productividad potenciada por IA.
 
 Mi filosofía es simple: **crear herramientas y experiencias que conecten a las personas con el futuro de la tecnología**, enfocado en la aplicabilidad real y en ayudar a otros a crecer con menos barreras de entrada.
 
@@ -73,7 +73,3 @@ Estoy actualmente enfocado en:
 Si te apasiona la tecnología, la IA o estás buscando aprovechar herramientas modernas para tu negocio o proyecto personal, **Transformateck es el lugar para ti**.
 
 Visita: ➤ https://transformateck.com/
-
----
-
-¿Quieres también una **versión tipo pitch para LinkedIn**, una **bio corta para tu sitio**, o un **About me para tu portafolio personal** en Github? Te la escribo en segundos 💡✍️
